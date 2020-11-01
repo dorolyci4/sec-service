@@ -1,4 +1,4 @@
-package org.sid.sec;
+package org.socom.sec;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;

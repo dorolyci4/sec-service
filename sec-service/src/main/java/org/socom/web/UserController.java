@@ -1,8 +1,9 @@
-package org.sid.web;
+package org.socom.web;
 
 import lombok.Data;
-import org.sid.entities.AppUser;
-import org.sid.service.AccountService;
+
+import org.socom.entities.AppUser;
+import org.socom.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

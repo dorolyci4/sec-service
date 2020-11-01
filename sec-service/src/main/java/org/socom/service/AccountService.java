@@ -1,7 +1,7 @@
-package org.sid.service;
+package org.socom.service;
 
-import org.sid.entities.AppRole;
-import org.sid.entities.AppUser;
+import org.socom.entities.AppRole;
+import org.socom.entities.AppUser;
 
 public interface AccountService {
     public AppUser saveUser(String username,String password,String confirmedPassword);

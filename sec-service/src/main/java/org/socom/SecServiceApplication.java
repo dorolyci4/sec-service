@@ -1,7 +1,7 @@
-package org.sid;
+package org.socom;
 
-import org.sid.entities.AppRole;
-import org.sid.service.AccountService;
+import org.socom.entities.AppRole;
+import org.socom.service.AccountService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

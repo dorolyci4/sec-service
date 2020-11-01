@@ -1,4 +1,4 @@
-package org.sid.sec;
+package org.socom.sec;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

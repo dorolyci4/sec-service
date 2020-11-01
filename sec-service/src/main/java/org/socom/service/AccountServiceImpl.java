@@ -1,9 +1,9 @@
-package org.sid.service;
+package org.socom.service;
 
-import org.sid.dao.AppRoleRepository;
-import org.sid.dao.AppUserRepository;
-import org.sid.entities.AppRole;
-import org.sid.entities.AppUser;
+import org.socom.dao.AppRoleRepository;
+import org.socom.dao.AppUserRepository;
+import org.socom.entities.AppRole;
+import org.socom.entities.AppUser;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

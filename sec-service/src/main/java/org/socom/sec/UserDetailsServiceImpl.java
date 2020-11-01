@@ -1,7 +1,7 @@
-package org.sid.sec;
+package org.socom.sec;
 
-import org.sid.entities.AppUser;
-import org.sid.service.AccountService;
+import org.socom.entities.AppUser;
+import org.socom.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
